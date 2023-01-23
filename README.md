@@ -40,7 +40,7 @@ __¿Qué Tecnología aprendí y estoy aprendiendo?__
 ### Dato de contacto:
 * 📫 Correo:nahunico.r@gmail.com  
 
-* [Linkedin](www.linkedin.com/in/nahuel-riveros)
+* [Linkedin](https://www.linkedin.com/in/nahuel-riveros)
 
 
 
