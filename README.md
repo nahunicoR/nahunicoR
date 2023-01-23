@@ -33,14 +33,14 @@ __¿Qué Tecnología aprendí y estoy aprendiendo?__
 ***
  * ⚡Typescript 
  * ⚡React Native 
- * ⚡Chakira Ui 
+ * ⚡Chakra Ui 
  * ⚡NextJs 
 ***
 
 ### Dato de contacto:
 * 📫 Correo:nahunico.r@gmail.com  
 
-* [Linkedin](https://www.linkedin.com/in/nahuel-riveros-valga%C3%B1%C3%B3n-794bb220b/)
+* [Linkedin](www.linkedin.com/in/nahuel-riveros)
 
 
 
