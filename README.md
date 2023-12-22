@@ -9,7 +9,7 @@ Siempre estuve interesado en las Ciencias Informáticas y Tecnológicas, pero po
 Finalmente lo logré, un pasito más y aca estoy, avanzando cada vez más.
 Dispuesto y listo para cualquier desafío.
 
-### Dato de contacto:
+### Datos de contacto:
 
  📫 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438.svg?logo=gmail&logoColor=white&link=mailto:nahunico.r@gmail.com)](mailto:nahunico.r@gmail.com)    💬 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nahuel-riveros/)  🤖 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NahuelRiveros#4897)
 
